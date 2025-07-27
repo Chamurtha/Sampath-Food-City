@@ -1,0 +1,6 @@
+pcode,pname,unit,price,discount
+P001,Sugar,kg,120.0,0.05
+P002,Rice,kg,150.0,0.1
+P003,Tea Pack,box,75.0,0.0
+P004,Milk Powder,g,500.0,0.15
+P005,Flour,kg,110.0,0.07

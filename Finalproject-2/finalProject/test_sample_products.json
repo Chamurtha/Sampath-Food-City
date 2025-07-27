@@ -1,0 +1,92 @@
+[
+    {
+        "pid": 101,
+        "pname": "Sunrise Rolled Oats",
+        "unit": "packet",
+        "price": 420.0,
+        "discount": 5.0,
+        "priceAfterDiscount": 399.0,
+        "pcode": "OATS420"
+    },
+    {
+        "pid": 102,
+        "pname": "Golden Soy Sauce",
+        "unit": "bottle",
+        "price": 320.0,
+        "discount": 8.0,
+        "priceAfterDiscount": 294.4,
+        "pcode": "SOYSAUCE102"
+    },
+    {
+        "pid": 103,
+        "pname": "Mountain Spring Water",
+        "unit": "litre",
+        "price": 150.0,
+        "discount": 2.0,
+        "priceAfterDiscount": 147.0,
+        "pcode": "WATER103"
+    },
+    {
+        "pid": 104,
+        "pname": "Choco Delight Cookies",
+        "unit": "box",
+        "price": 275.0,
+        "discount": 7.0,
+        "priceAfterDiscount": 255.75,
+        "pcode": "COOKIE104"
+    },
+    {
+        "pid": 105,
+        "pname": "Ceylon Green Tea Bags",
+        "unit": "pack",
+        "price": 350.0,
+        "discount": 10.0,
+        "priceAfterDiscount": 315.0,
+        "pcode": "TEA105"
+    },
+    {
+        "pid": 106,
+        "pname": "Herbal Hair Oil",
+        "unit": "bottle",
+        "price": 500.0,
+        "discount": 15.0,
+        "priceAfterDiscount": 425.0,
+        "pcode": "OIL106"
+    },
+    {
+        "pid": 107,
+        "pname": "Vegetable Pasta",
+        "unit": "pack",
+        "price": 280.0,
+        "discount": 5.0,
+        "priceAfterDiscount": 266.0,
+        "pcode": "PASTA107"
+    },
+    {
+        "pid": 108,
+        "pname": "Coconut Cooking Cream",
+        "unit": "can",
+        "price": 310.0,
+        "discount": 6.0,
+        "priceAfterDiscount": 291.4,
+        "pcode": "CREAM108"
+    },
+    {
+        "pid": 109,
+        "pname": "Spicy Mango Chutney",
+        "unit": "jar",
+        "price": 450.0,
+        "discount": 9.0,
+        "priceAfterDiscount": 409.5,
+        "pcode": "CHUTNEY109"
+    },
+    {
+        "pid": 110,
+        "pname": "Deluxe Chocolate Bar",
+        "unit": "bar",
+        "price": 200.0,
+        "discount": 4.0,
+        "priceAfterDiscount": 192.0,
+        "pcode": "CHOC110"
+    }
+]
